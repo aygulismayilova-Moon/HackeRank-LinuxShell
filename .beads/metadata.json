@@ -1,0 +1,9 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "hackerank_linuxshell_79754fdb",
+  "project_id": "ab8e366f-c7ff-4ed8-b6ef-7974e80641ff",
+  "global_dolt_database": "beads_global",
+  "global_project_id": "00000000-0000-0000-0000-000000000000"
+}
