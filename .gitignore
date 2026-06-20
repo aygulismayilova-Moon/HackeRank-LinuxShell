@@ -1,6 +1,23 @@
-
 # Beads / Dolt files (added by bd init)
 .dolt/
 *.db
 .beads-credential-key
 .beads/proxieddb/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset images — provided by the hackathon evaluator, too large for the repo
+hackerrank-orchestrate-june26/dataset/images/
+
+# Build artifacts
+code.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local copies of the log file (canonical location is ~/hackerrank_orchestrate/)
+chat_transcript.txt
